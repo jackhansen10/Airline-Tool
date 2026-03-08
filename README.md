@@ -29,7 +29,6 @@ A full-stack flight fare search tool built with React (Vite + TypeScript) and No
 ### 2. Configure Environment
 
 ```bash
-cd flight-search
 cp .env.example .env
 ```
 
@@ -61,7 +60,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 ## Project Structure
 
 ```
-flight-search/
 ├── client/                  # Vite React app
 │   └── src/
 │       ├── components/      # React components
